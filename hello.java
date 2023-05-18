@@ -1,10 +1,5 @@
-import java.io.*;
-import java.util.*;
-
-public class Solution {
-
+class HelloWorld {
     public static void main(String[] args) {
-        System.out.print("Hello World. I am here.");
-        
+        System.out.println("Hello, World!"); 
     }
 }
